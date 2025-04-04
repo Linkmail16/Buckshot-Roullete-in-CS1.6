@@ -50,6 +50,8 @@
 
 ## Nota 
 
+Me falta añadir el uso de items como en el juego real, items para curar vida, tiro de doble de daño, robar turno, ver la ronda actual, tirar una ronda, etc...
+
 Cualquiera es libre de usar o mejorar este plugin
 
 
